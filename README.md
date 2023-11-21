@@ -1,3 +1,3 @@
 # demo
-my first repo ya it is my
+my first repo
 author-Hp Kishan Rao
